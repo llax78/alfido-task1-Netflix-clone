@@ -1,4 +1,4 @@
-# alfido-task-Netflix-clone
+# Alfido-task 3-Netflix-clone
 this project is a UI clone challenge completed during Alfido Tech intenship .
 The goal was to replicate the user interface of a popular website using fontend Technologies.
 
